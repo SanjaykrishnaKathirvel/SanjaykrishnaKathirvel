@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Sanjay Krishna Kathirvel 👋
 
-<!--
-**SanjaykrishnaKathirvel/SanjaykrishnaKathirvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pre-Final Year B.E Electronics & Communication Engineering Student  
+🏫 Kumaraguru College of Technology, Coimbatore  
 
-Here are some ideas to get you started:
+I am an enthusiastic engineering student with a strong interest in
+Digital Signal Processing, Embedded Systems, and applied programming.
+I enjoy working on practical, concept-based projects and continuously
+improving my technical skills for industry and placements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- Programming: Python, MATLAB, C
+- Core Subjects: Digital Signal Processing, Signals & Systems,
+  Probability & Random Processes
+- Tools: Git, NumPy, MATLAB
+
+### 📂 Academic Focus
+- Signal analysis and filtering techniques
+- Core ECE problem solving through simulations
+- Mini projects aligned with placement preparation
+
+### 🎯 Career Objective
+To secure an entry-level engineering role where I can apply my core
+ECE knowledge, learn from real-world projects, and grow as a
+professional engineer.
